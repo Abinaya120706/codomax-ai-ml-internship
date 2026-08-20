@@ -77,9 +77,9 @@ The goal of this internship is to strengthen my practical knowledge of Python, A
 📌 Progress
 
 - [x] Prerequisite Onboarding
-- [ ] Module 1 – Introduction to AI & Python
-- [ ] Module 2 – Python Mini Project
-- [ ] Module 3 – Data Analysis & Visualization
+- [x] Module 1 – Introduction to AI & Python
+- [x] Module 2 – Python Mini Project
+- [x] Module 3 – Data Analysis & Visualization
 - [ ] Module 4 – Machine Learning Fundamentals
 - [ ] Module 5 – AI Tools & Mini Project
 - [ ] Module 6 – Final AI & ML Project
