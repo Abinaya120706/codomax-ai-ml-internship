@@ -126,7 +126,7 @@ The project was developed and tested using Google Colab.
 Colab Notebook:
 Add your Google Colab link here after completing and testing the project.
 
-https://colab.research.google.com/drive/1JCudK0nzjxo_8LyhWaibN8__4oH3N-bK?usp=sharing 
+https://colab.research.google.com/drive/1JCudK0nzjxo_8LyhWaibN8__4oH3N-bK?usp=sharing
 
 ---
 
