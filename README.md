@@ -80,8 +80,8 @@ The goal of this internship is to strengthen my practical knowledge of Python, A
 - [x] Module 1 – Introduction to AI & Python
 - [x] Module 2 – Python Mini Project
 - [x] Module 3 – Data Analysis & Visualization
-- [ ] Module 4 – Machine Learning Fundamentals
-- [ ] Module 5 – AI Tools & Mini Project
+- [x] Module 4 – Machine Learning Fundamentals
+- [x] Module 5 – AI Tools & Mini Project
 - [ ] Module 6 – Final AI & ML Project
 - [ ] Graduation Milestone
 
